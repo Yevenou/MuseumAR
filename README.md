@@ -15,8 +15,8 @@ Natürlich änderte ich währenddessen immer wieder das CSS, um der Seite ihre F
 Erst nachdem ich den CSS-Code für die Scroll-Animation implementiert hatte, bemerkte ich, dass er nicht von allen Browsern unterstützt wurde. Nur Google Chrome und Opera unterstützen "animation-timeline: scroll();". Da die Website bereits funktionierte, wurde mir im Coaching gesagt, ich solle dies als Learning schreiben. Eine weitere Schwierigkeit bestand darin, die Suchfunktion mit PHP zu implementieren, da ich mir nicht sicher war, ob eine Datenbank wirklich notwendig war. Dieser Teil hätte wahrscheinlich auch mit json-Dateien erledigt werden können, aber da ich plante, die Website später von einigen Benutzern bearbeiten zu lassen, um weitere Museen hinzuzufügen, entschied ich mich für eine Datenbank.
 
 ## Quellen  
-ChatGPT
-W3School
-Google Fonts
-Scroll Animation (https://scroll-driven-animations.style/demos/cover-to-fixed-header/css/)
-IM Unterricht Folien
+ChatGPT  
+W3School  
+Google Fonts  
+Scroll Animation (https://scroll-driven-animations.style/demos/cover-to-fixed-header/css/)  
+IM Unterricht Folien  
