@@ -1,7 +1,7 @@
 # MuseumAR | IM5
 
-⚠️- Diese Website funktioniert nur mit Google Chrome oder Opera (01.12.2023)
-ℹ️ - Die Datei "Museums.sql" ist ein Export der Datenbank
+⚠️- Diese Website funktioniert nur mit Google Chrome oder Opera (01.12.2023)  
+ℹ️ - Die Datei "Museums.sql" ist ein Export der Datenbank  
 
 ## Ziel  
 Als letztes Projekt des Moduls Interaktive Medien 5 mussten wir eine Website oder Webanwendung unserer Wahl zum Thema unseres Bachelorprojekts erstellen. In meinem Projekt geht es um Augmented Reality (AR) in Museen. Die Idee ist, eine Website für eine Anwendung zu erstellen, die von Museen genutzt werden kann, um ihre Ausstellungen interaktiver zu gestalten. Die wichtigsten Aspekte der Website sind also (1) wie man diese Anwendung bekommt, (2) wie man sie benutzt und (3) wo man sie benutzt.
