@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Museum AR</title>
-  <meta name="description" content="">
+  <meta name="description" content="Discover a new era of museum exploration with AR Museo! Immerse yourself in art and history using our innovative Augmented Reality app. Download now for an interactive journey through captivating exhibits.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <meta property="og:title" content="Museum AR">
